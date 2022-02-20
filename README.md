@@ -1,3 +1,3 @@
 # hello-world
 sakokazandjian
-I am new to codeing 
+I am new to github
